@@ -1,15 +1,15 @@
 # Google-Dinosaur-Game
 Google Dinosaur game made in Python
 
-##Dependencies 
+## Dependencies 
 - Numpy
 - Pillow
 - PyautoGUI
 
-##Usage
+## Usage
 simply Run the python file
 
-######Note 
+###### Note 
 Pixels may varry screen to screen 
 
 
